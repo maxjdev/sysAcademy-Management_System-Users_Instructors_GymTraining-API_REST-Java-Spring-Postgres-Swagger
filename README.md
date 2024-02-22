@@ -14,7 +14,7 @@
 
 ### Image
 
-[![screencapture-localhost-8080-swagger-ui-index-html-2024-02-22-12-00-08.png](https://i.postimg.cc/PxVWq1tm/screencapture-localhost-8080-swagger-ui-index-html-2024-02-22-12-00-08.png)](https://postimg.cc/qhnhbh6R)
+[![Swagger Print](https://i.postimg.cc/PxVWq1tm/screencapture-localhost-8080-swagger-ui-index-html-2024-02-22-12-00-08.png)](https://postimg.cc/qhnhbh6R)
 
 </div>
 
