@@ -8,8 +8,7 @@ import lombok.Data;
 /**
  * @author maxdev
  */
-@Data
-@AllArgsConstructor
+@Data @AllArgsConstructor
 public class InstructorDTO {
     @NotBlank(message = "Fill in the field correctly")
     @Size(min = 3, max = 50, message = "'${validateValue}' must have between {min} and {max} characters")
